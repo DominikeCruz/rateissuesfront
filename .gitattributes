@@ -19,4 +19,4 @@
 *.txt   text eol=lf
 *.xml   text eol=lf
 
-*.js linguist-language=Vue
+seed/*/*.js linguist-vendored=true
